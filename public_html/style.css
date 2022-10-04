@@ -1,0 +1,626 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin:auto;
+    background-color: #282828;
+    width: 800px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+/*index*/
+
+#pozadina
+{
+    
+    width: 800px;
+    height: 400px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    margin-bottom: 0px;
+    transition: ease-in 2s ;
+    transition: ease-out 2s;
+    
+    
+}
+
+
+#naslov_i_sat
+{
+    width:800px;
+    height:48px;
+}
+
+
+
+
+#sitename
+{
+    
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 40px;
+   
+}
+
+#sat {
+    
+  font-family: 'Orbitron', sans-serif;
+  color: red;
+  font-size: 38px;
+  text-align: center;
+  margin-right: 5px;
+  float:right;
+  
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+  padding: 0px 42px;
+  
+}
+
+li a {
+  float:right;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #557A95;
+  transition: ease-in-out 0.3s;
+  color:black;
+}
+
+.active {
+  background-color: #557A95;
+  color:black;
+}
+
+
+hr
+{
+   border-color: red;
+}
+
+#hr1
+{
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+
+#hr2
+{
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+
+.images
+{
+    display:flex;
+    justify-content: space-between;
+}
+
+.images img
+{
+    opacity: 1;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+img:hover  {
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+#mpHeading
+{
+    display:flex;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+}
+
+#hiddenDivMostPopular
+{
+    width:100%;
+    color:white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+
+.descTXT
+{
+    display:flex;
+    justify-content: center;
+    text-align: justify;
+    width: 500px;
+    height: 200px;
+    padding-top: 20px;
+    margin:auto;
+}
+
+#descFrnds
+{
+   
+  
+    
+}
+
+#descGot
+{
+  
+    display:none;
+    
+}
+
+#descHtale
+{
+   
+    display:none;
+    
+}
+
+#descTwd
+{
+  
+    display:none;
+    
+    
+}
+
+
+#newsletterDugme {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    justify-content: center;
+    width: 100%;
+    display:flex;
+    
+    margin-bottom: 30px;
+        
+    padding: 20px 0;
+
+    text-decoration: none;
+    background-color: #557A95;
+    color: white;
+    border-radius: 5px;
+}
+
+#newsletterDugme:hover
+{
+    background-color: #edd074;
+    transition: ease-in-out 0.3s;
+    color:black;
+}
+
+
+
+footer
+{
+    
+    padding:10px 0;
+    display: flex;
+    justify-content: center;
+    width:100%;
+    background-color: #8a8880;
+    border-top: 2px solid red;
+    border-bottom: 2px solid red;
+    
+}
+
+/*kraj indexa*/
+
+
+
+
+
+
+
+
+
+
+
+/*newsletter*/
+
+#contentForm
+{
+    width:100%;
+    height:300px;
+    margin-bottom: 80px;
+}
+
+#prijava
+{
+    width:308px;
+    margin:auto;
+    
+}
+
+.input
+{
+    width:308px;
+    margin-bottom: 20px;
+}
+
+.input input
+{  
+    width:300px;
+    height:50px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 15px;
+}
+
+.input label
+{
+    color:white;
+    font-size: 25px;
+}
+
+
+
+
+
+#prijava button
+{
+    padding-top:10px;
+    padding-bottom: 20px;
+    text-align: center;
+    cursor: pointer;
+    width:308px;
+    height:30px;
+    font-size: 15px;
+    font-weight: bold;
+    
+    
+    text-decoration: none;
+    background-color: #557A95;
+    color: white;
+    border-radius: 5px;
+ 
+}
+
+
+#prijava button:hover
+{
+    background-color: #edd074;
+    transition: ease-in-out 0.3s;
+    color:black;
+}
+
+#tekstUDugmetu
+{
+    position:relative;
+    bottom:4px;
+}
+
+
+/*kraj newslettera*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*browse*/
+
+#search
+{
+    width: 100%;
+    height: 60px;
+}
+
+
+#searchBarComposite
+{
+   
+   display:flex;
+   justify-content: center;
+}
+
+#showSearch
+{
+   
+    width:220px;
+    height:35px;
+    margin-right: 5px;
+    background-color: #e7e3e3;
+    
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+#selectionBarYearRating
+{
+    width:320px;
+    height:35px;
+     margin-right: 5px;
+     background-color: #e7e3e3;
+     
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+#selectionBarGenre
+{
+    width:220px;
+    height:35px;
+    background-color: #e7e3e3;
+    
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+            box-sizing: border-box;
+}
+
+
+#generisnje
+{
+    width:100%;
+    display:flex;
+    margin-bottom: 20px;
+}
+
+table 
+{
+   
+   width: 100%;
+   border-collapse: collapse;
+   position:relative;
+   
+   
+}
+
+#fold
+{
+    width: 60%;
+    height: 300px;
+    overflow: auto;
+    overflow-x: hidden;
+    flex:1;
+    margin-right: 20px;
+   
+    opacity:90%;
+    
+}
+
+th 
+{
+    top: 0; 
+    position: sticky;
+    background-color: silver;
+    height: 30px;
+    text-align: justify;
+    border: 1px solid white;
+    padding: 8px;
+    
+}
+
+td
+{
+    background-color: #d5d1ee;
+    font-style: italic;
+    padding: 15px;
+    text-align: center;
+    color:black;
+    border: 1px solid white;
+    padding: 7px;
+    cursor: pointer;
+}
+
+tbody > tr:hover td {
+        background-color: lightgreen; 
+    }
+
+#mestoZaOpis
+{
+   
+    width: 20%;
+    height:192px;
+    background-color:silver;
+    flex:1;
+    border:1px solid black;
+    opacity:80%;
+   
+    
+}
+
+
+#opisTekst
+{
+    color:black;
+    position:relative;
+    top:15px;
+    margin:auto;
+    width:350px;
+    height:250px;
+}
+/* kraj browse*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*contact us*/
+
+#contactDescDiv
+{
+    width: 60%;
+    
+    text-align: justify;
+    color:white;
+    
+}
+
+#contactHeading
+{
+    font-size: 30px;
+    font-weight: bold;
+    
+}
+
+#contactTxtDiv
+{
+    font-size:20px;
+}
+
+
+#contacInfoDiv
+{
+    color:white;
+    width:60%;
+    height:200px;
+    position:relative;
+    float:right;
+    margin-top: 30px;
+    margin-bottom: 170px;
+}
+
+#contactInfoHeading
+{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#floatRightDiv
+{
+    width:410px;
+    position:relative;
+    float:right;
+    
+}
+
+#contactsDiv
+{
+  
+   position:relative;
+   display:flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   
+}
+
+#contactPhoneContainer
+{
+    flex:1 1 50%;
+
+    
+    
+}
+
+#contactFaxContainer
+{
+    flex:1 1 50%;
+
+    
+}
+
+#contactMailContainer
+{
+    flex:1 1 50%;
+    margin-top: 40px;
+
+    
+    
+}
+
+#contactAddrContainer
+{
+    flex:1 1 50%;
+    margin-top: 40px;
+
+    
+}
+
+.infoHeading
+{
+    font-size: 20px;
+    font-weight: bold;
+    color:azure;
+    text-decoration: underline;
+}
+
+/*kraj contact us*/
+
+
+
+
+/*about us*/
+
+
+#aboutUs
+{
+    color: white;
+    margin-bottom: 20px;
+    
+}
+
+#aboutUsHeading
+{
+    
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#aboutUsText
+{
+    font-size:20px;
+}

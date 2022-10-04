@@ -1,0 +1,238 @@
+<?xml version='1.0' encoding='UTF-8' ?> 
+
+<SHOWS>
+    	<SHOW>
+		<TITLE>Breaking Bad</TITLE>
+		<GENRE>Crime</GENRE>
+		<LENGTH>49 min</LENGTH>
+		<YEAR>2008</YEAR>
+		<RATING>9.4</RATING>
+
+		<DESCRIPTION>
+		A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.
+		</DESCRIPTION>
+                
+	</SHOW>
+        <SHOW>
+		<TITLE>Game Of Thrones</TITLE>
+		<GENRE>Drama</GENRE>
+		<LENGTH>57 min</LENGTH>
+		<YEAR>2011</YEAR>
+		<RATING>9.3</RATING>
+
+		<DESCRIPTION>
+		Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.
+		</DESCRIPTION>
+                
+	</SHOW>
+        <SHOW>
+		<TITLE>The Mandalorian</TITLE>
+		<GENRE>Sci-Fi</GENRE>
+		<LENGTH>40 min</LENGTH>
+		<YEAR>2019</YEAR>
+        <RATING>8.8</RATING>
+
+		<DESCRIPTION>
+		The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.
+		</DESCRIPTION>
+
+
+	</SHOW>
+        <SHOW>
+		<TITLE>Friends</TITLE>
+		<GENRE>Comedy</GENRE>
+		<LENGTH>22 min</LENGTH>
+		<YEAR>1994</YEAR>
+        <RATING>8.9</RATING> 
+
+		<DESCRIPTION>
+		Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.
+		</DESCRIPTION>
+
+
+	</SHOW>
+	<SHOW>
+		<TITLE>The Sopranos</TITLE>
+		<GENRE>Crime</GENRE>
+		<LENGTH>55 min</LENGTH>
+		<YEAR>1999</YEAR>
+		<RATING>9.2</RATING>
+
+		<DESCRIPTION>
+		New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.
+		</DESCRIPTION>              
+
+	</SHOW>
+	<SHOW>
+		<TITLE>The Wonder Years</TITLE>
+		<GENRE>Comedy</GENRE>
+		<LENGTH>22 min</LENGTH>
+		<YEAR>1988</YEAR>
+		<RATING>8.3</RATING>
+
+		<DESCRIPTION>
+		Kevin Arnold recalls growing up during the late 60s and early 70s; the turbulent social times make the transition from child to adult unusually interesting.
+		</DESCRIPTION>
+               
+	</SHOW>
+        <SHOW>
+		<TITLE>Seinfeld</TITLE>
+		<GENRE>Comedy</GENRE>
+		<LENGTH>22 min</LENGTH>
+		<YEAR>1989</YEAR>
+		<RATING>8.8</RATING>
+
+		<DESCRIPTION>
+		The continuing misadventures of neurotic New York City stand-up comedian Jerry Seinfeld and his equally neurotic New York City friends.
+		</DESCRIPTION>
+
+                
+	</SHOW>
+	<SHOW>
+		<TITLE>House Of Cards</TITLE>
+		<GENRE>Drama</GENRE>
+		<LENGTH>51 min</LENGTH>
+		<YEAR>2013</YEAR>
+                <RATING>8.7</RATING>
+		<DESCRIPTION>
+		A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.
+		</DESCRIPTION>  
+
+	</SHOW>        
+	<SHOW>
+		<TITLE>Lost</TITLE>
+		<GENRE>Fantasy</GENRE>
+		<LENGTH>44 min</LENGTH>
+		<YEAR>2004</YEAR>
+		<RATING>8.3</RATING>
+		<DESCRIPTION>
+		The survivors of a plane crash are forced to work together in order to survive on a seemingly deserted tropical island.
+		</DESCRIPTION>                
+	</SHOW>	
+
+	<SHOW>
+		<TITLE>Westworld</TITLE>
+		<GENRE>Mystery</GENRE>
+		<LENGTH>62 min</LENGTH>
+		<YEAR>2016</YEAR>
+		<RATING>8.6</RATING>
+ 		<DESCRIPTION>
+		Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.
+		</DESCRIPTION>               
+	</SHOW>	
+
+	<SHOW>
+		<TITLE>Stranger Things</TITLE>
+		<GENRE>Fantasy</GENRE>
+		<LENGTH>51 min</LENGTH>
+		<YEAR>2016</YEAR>
+		<RATING>8.7</RATING>
+		<DESCRIPTION>
+		When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.
+		</DESCRIPTION>                
+	</SHOW>	
+
+	<SHOW>
+		<TITLE>The X Files</TITLE>
+		<GENRE>Mystery</GENRE>
+		<LENGTH>45 min</LENGTH>
+		<YEAR>1993</YEAR>
+		<RATING>8.6</RATING>
+ 		<DESCRIPTION>
+		Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.
+		</DESCRIPTION>               
+	</SHOW>	
+
+
+	<SHOW>
+		<TITLE>Chernobyl</TITLE>
+		<GENRE>History</GENRE>
+		<LENGTH>86 min</LENGTH>
+		<YEAR>2019</YEAR>
+		<RATING>9.4</RATING>
+ 		<DESCRIPTION>
+		In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.
+		</DESCRIPTION>               
+	</SHOW>	
+
+	<SHOW>
+		<TITLE>Better Call Saul</TITLE>
+		<GENRE>Crime</GENRE>
+		<LENGTH>46 min</LENGTH>
+		<YEAR>2015</YEAR>
+		<RATING>8.7</RATING>
+ 		<DESCRIPTION>
+		The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico.
+		</DESCRIPTION>               
+	</SHOW>	
+
+
+	<SHOW>
+		<TITLE>Narcos</TITLE>
+		<GENRE>Crime</GENRE>
+		<LENGTH>49 min</LENGTH>
+		<YEAR>2015</YEAR>
+		<RATING>8.8</RATING>
+ 		<DESCRIPTION>
+		A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.
+		</DESCRIPTION>               
+	</SHOW>	
+
+
+	<SHOW>
+		<TITLE>Family Guy</TITLE>
+		<GENRE>Animation</GENRE>
+		<LENGTH>22 min</LENGTH>
+		<YEAR>1999</YEAR>
+		<RATING>8.1</RATING>
+		<DESCRIPTION>
+		In a wacky Rhode Island town, a dysfunctional family strive to cope with everyday life as they are thrown from one crazy scenario to another.
+		</DESCRIPTION>                
+	</SHOW>	
+
+	<SHOW>
+		<TITLE>Parks And Recreation</TITLE>
+		<GENRE>Comedy</GENRE>
+		<LENGTH>22 min</LENGTH>
+		<YEAR>2009</YEAR>
+		<RATING>8.6</RATING>
+ 		<DESCRIPTION>
+		The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.
+		</DESCRIPTION>               
+	</SHOW>	
+
+
+	<SHOW>
+		<TITLE>The Simpsons</TITLE>
+		<GENRE>Animation</GENRE>
+		<LENGTH>22 min</LENGTH>
+		<YEAR>1989</YEAR>
+		<RATING>8.6</RATING>
+ 		<DESCRIPTION>
+		The satiric adventures of a working-class family in the misfit city of Springfield.
+		</DESCRIPTION>               
+	</SHOW>	
+
+		<SHOW>
+		<TITLE>The Wire</TITLE>
+		<GENRE>Crime</GENRE>
+		<LENGTH>59 min</LENGTH>
+		<YEAR>2002</YEAR>
+		<RATING>9.3</RATING>
+ 		<DESCRIPTION>
+		The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement.
+		</DESCRIPTION>               
+	</SHOW>	
+
+	<SHOW>
+		<TITLE>Rome</TITLE>
+		<GENRE>History</GENRE>
+		<LENGTH>52 min</LENGTH>
+		<YEAR>2005</YEAR>
+		<RATING>8.7</RATING>
+ 		<DESCRIPTION>
+		A down-to-earth account of the lives of both illustrious and ordinary Romans set in the last days of the Roman Republic.
+		</DESCRIPTION>               
+	</SHOW>	
+
+</SHOWS>
